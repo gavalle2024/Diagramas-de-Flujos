@@ -59,7 +59,7 @@
             <mxPoint x="81" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="No" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="No" vertex="1">
           <mxGeometry height="30" width="39" x="104" y="238" as="geometry" />
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-17" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-16" value="">
@@ -68,7 +68,7 @@
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Token generado: tG30cp7X1_g&lt;div&gt;Registro exitoso. Podes usar /menu&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="121" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="Si" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Si" vertex="1">
           <mxGeometry height="30" width="40" x="213" y="319" as="geometry" />
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-19" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-18" value="">
@@ -96,31 +96,31 @@
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Menu:&lt;div&gt;Boton &quot;Mis novedades&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Reportar Inasistencia&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Registrar QR&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80.5" width="200" x="121" y="538" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-24" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-23" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-24" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Seleccionar el tipo de Inasistencia:&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Boton &quot;Accidente de trabajo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Asuntos particulares&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (conviviente, conyuge, hijos, padres o hermanos)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (Abuelos, nietos, suegros o cuñados)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Nacimiento de hijo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Donacion de sangre&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de familiar a cargo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de tratamiento breve&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;Seleccionar el tipo de Inasistencia:&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Boton &quot;Accidente de trabajo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Asuntos particulares&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (conviviente, conyuge, hijos, padres o hermanos)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (Abuelos, nietos, suegros o cuñados)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Nacimiento de hijo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Donacion de sangre&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de familiar a cargo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de tratamiento breve&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="400" x="-120" y="638" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="Al pulsar boton &quot;Reportar Inasis&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tencia&quot;&lt;/span&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-22" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Reportar Inasis&lt;span style=&quot;background-color: transparent;&quot;&gt;tencia&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="216" x="-99" y="552" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-26" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-25" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-26" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Seleccionaste: ETB - Parte de Enfermo&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Por favor escribi una breve descripcion de la inasistencia (ej.: tengo fiebre). Si no queres agregar texto, responde SIN DETALLE.&lt;/div&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;Seleccionaste: ETB - Parte de Enfermo&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Por favor escribi una breve descripcion de la inasistencia (ej.: tengo fiebre). Si no queres agregar texto, responde SIN DETALLE.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="400" x="-120" y="863" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-28" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-27" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-28" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-27" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;SIN DETALLE&quot;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;SIN DETALLE&quot;" vertex="1">
           <mxGeometry height="36" width="120" x="20" y="973" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-30" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-29" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-30" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.121;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-37" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.121;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-37" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="1054" />
@@ -131,46 +131,46 @@
             <mxPoint x="310" y="1339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Descripcion registrada. Si queres adjuntar un certificado pulsa &#39;Adjuntar certificado&#39;, sino pulsa &#39;Adjuntar despues - Terminar&#39;." vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="Descripcion registrada. Si queres adjuntar un certificado pulsa &#39;Adjuntar certificado&#39;, sino pulsa &#39;Adjuntar despues - Terminar&#39;." vertex="1">
           <mxGeometry height="50" width="400" x="-120" y="1039" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-33" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-32" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-33" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Por favor adjunta ahora el certificado (usa el clip en telegram). Cuando envies, se guardara automaticamente.&lt;div&gt;Si queres, podes escribir tambien u&amp;nbsp; texto junto al archivo.&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;Por favor adjunta ahora el certificado (usa el clip en telegram). Cuando envies, se guardara automaticamente.&lt;div&gt;Si queres, podes escribir tambien u&amp;nbsp; texto junto al archivo.&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="360" x="-100" y="1164" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="Al pulsar boton &quot;Adjuntar Certificado&quot;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-31" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Adjuntar Certificado&quot;" vertex="1">
           <mxGeometry height="30" width="210" x="-10" y="1109" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-35" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="qGrkcaAxCFV2v9Zo5DTo-34" value="">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-35" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-34" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Adjunto guardado&quot;&lt;div&gt;Boton &quot;Terminar&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;Adjunto guardado&quot;&lt;div&gt;Boton &quot;Terminar&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="1259" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Inasistencia registrada. Quedando a la espera de su convalidacion&quot;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;Inasistencia registrada. Quedando a la espera de su convalidacion&quot;" vertex="1">
           <mxGeometry height="60" width="300" x="-70" y="1386" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="Al pulsar boton &quot;Terminat&quot;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-36" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Terminat&quot;" vertex="1">
           <mxGeometry height="30" width="149" x="26" y="1339" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&quot;Inasistencia registrada. Quedando a la espera del certificado que corresponda.&quot;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&quot;Inasistencia registrada. Quedando a la espera del certificado que corresponda.&quot;" vertex="1">
           <mxGeometry height="60" width="240" x="281" y="1387" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;labelBackgroundColor=none;fontColor=#1D3557;" value="Al pulsar boton &quot;Adjuntar despues - Terminar&quot;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-39" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;rotation=90;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Adjuntar despues - Terminar&quot;" vertex="1">
           <mxGeometry height="30" width="259" x="173" y="1179" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="Al pulsar boton &quot;Parte de enfermo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-41" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Parte de enfermo&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="216" x="-16" y="820" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" value="Al enviar legajo" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Al enviar legajo" vertex="1">
           <mxGeometry height="30" width="100" x="327" y="123" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="440" y="355" as="geometry" />
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
+          <mxGeometry height="75" width="200" x="440" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;labelBackgroundColor=none;fontColor=#1D3557;" value="Al pulsar boton &quot;Mis novedades&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Al pulsar boton &quot;Mis novedades&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="190" x="275" y="436" as="geometry" />
         </mxCell>
       </root>
