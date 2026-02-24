@@ -188,6 +188,9 @@
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-57" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="qGrkcaAxCFV2v9Zo5DTo-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-60" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="qGrkcaAxCFV2v9Zo5DTo-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;span style=&quot;color: rgb(18, 18, 18);&quot;&gt;&quot;Por favor adjunta ahora el certificado (usa el clip). Cuando envies, se guardara automaticamente.&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(18, 18, 18), rgb(222, 222, 222)); background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="340" x="440" y="670" as="geometry" />
         </mxCell>
@@ -205,6 +208,9 @@
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-58" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);rotation=-90;" value="Al pulsar boton &quot;Adjuntar Certificado&quot;" vertex="1">
           <mxGeometry height="30" width="210" x="304" y="590.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="A la espera de la convalidacion del certificado" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="787" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
