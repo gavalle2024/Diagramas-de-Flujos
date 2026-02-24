@@ -167,11 +167,44 @@
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Al enviar legajo" vertex="1">
           <mxGeometry height="30" width="100" x="327" y="123" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
-          <mxGeometry height="75" width="200" x="440" y="355" as="geometry" />
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-47" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="qGrkcaAxCFV2v9Zo5DTo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="Mensaje: Cargando tus novedades, por favor espera..." vertex="1">
+          <mxGeometry height="45" width="200" x="440" y="355" as="geometry" />
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Al pulsar boton &quot;Mis novedades&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="190" x="275" y="436" as="geometry" />
+          <mxGeometry height="30" width="190" x="275" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-51" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="qGrkcaAxCFV2v9Zo5DTo-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;align=left;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;#71&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2026-02-24 16:51:00&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Estado: PENDIENTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SIN DETALLE&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;nbsp; Adjuntar certificado&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="114" width="350" x="440" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;align=left;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#70&lt;/div&gt;&lt;div&gt;2026-02-24 16:41:51&lt;/div&gt;&lt;div&gt;Estado: JUSTIFICADO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SIN DETALLE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Adjuntos: 501118_certificado_24022026_134714_ETB.jpg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="112" width="350" x="440" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-57" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="qGrkcaAxCFV2v9Zo5DTo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;span style=&quot;color: rgb(18, 18, 18);&quot;&gt;&quot;Por favor adjunta ahora el certificado (usa el clip). Cuando envies, se guardara automaticamente.&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(18, 18, 18), rgb(222, 222, 222)); background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="340" x="440" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-53" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#314354;fontColor=default;fillColor=#647687;" target="qGrkcaAxCFV2v9Zo5DTo-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="&quot;Adjunto guardado&quot;&lt;div&gt;Boton &quot;Terminar&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="787" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-55" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="&quot;Adjuntos finalizados&quot;" vertex="1">
+          <mxGeometry height="36" width="170" x="525" y="914" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-56" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Terminat&quot;" vertex="1">
+          <mxGeometry height="30" width="149" x="556" y="867" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-58" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);rotation=-90;" value="Al pulsar boton &quot;Adjuntar Certificado&quot;" vertex="1">
+          <mxGeometry height="30" width="210" x="304" y="590.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
