@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.2">
-  <diagram name="Página-1" id="Cwhy34_-L7s4h74O22FV">
-    <mxGraphModel dx="1737" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.2" pages="2">
+  <diagram name="Flujos_Bot_Telegram" id="Cwhy34_-L7s4h74O22FV">
+    <mxGraphModel dx="1763" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,6 +214,64 @@
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" value="A la espera de la convalidacion del certificado" vertex="1">
           <mxGeometry height="60" width="120" x="750" y="809" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Flujos_App_Tkinter" id="iNgyuWQ_Rq7EE0BhiQ1f">
+    <mxGraphModel dx="936" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-0" />
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-1" parent="4hdbfesr_QCJyW-_lk5X-0" />
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-2" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="4hdbfesr_QCJyW-_lk5X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="4hdbfesr_QCJyW-_lk5X-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-3" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="4hdbfesr_QCJyW-_lk5X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" target="4hdbfesr_QCJyW-_lk5X-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-3" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="4hdbfesr_QCJyW-_lk5X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="I-9owcT4jq3m5ikvxURM-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-4" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="4hdbfesr_QCJyW-_lk5X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="I-9owcT4jq3m5ikvxURM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-5" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="4hdbfesr_QCJyW-_lk5X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="I-9owcT4jq3m5ikvxURM-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="100" />
+              <mxPoint x="730" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-4" parent="4hdbfesr_QCJyW-_lk5X-1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="INICIO&lt;div&gt;APP TKINTER&lt;/div&gt;&lt;div&gt;&quot;Alertas-PSA&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="340" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-6" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Solapa &quot;Alertas&quot;" vertex="1">
+          <mxGeometry height="30" width="160" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-8" parent="4hdbfesr_QCJyW-_lk5X-1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Estado del bot: ENCENDIDO / APAGADO&lt;div&gt;&lt;br&gt;&lt;div&gt;Boton &quot;Encender bot&quot;&amp;nbsp; &amp;nbsp; boton &quot;Apagar bot&quot;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="510" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-0" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Solapa &quot;Gestion de Roles&quot;" vertex="1">
+          <mxGeometry height="30" width="160" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-1" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Solapa &quot;Generar QR&quot;" vertex="1">
+          <mxGeometry height="30" width="160" x="430" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-2" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Solapa &quot;Inasistencia&quot;" vertex="1">
+          <mxGeometry height="30" width="160" x="630" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-9" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="I-9owcT4jq3m5ikvxURM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="I-9owcT4jq3m5ikvxURM-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-6" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;align=left;" value="Permite buscar por &quot;Legajo&quot; y &quot;Nombre&quot;&lt;div&gt;Permite filtrar por &quot;Destino&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="20" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-8" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;" value="Con las busquedas y filtros se arma el listado del personal a enviar el mensaje de alerta" vertex="1">
+          <mxGeometry height="60" width="160" x="20" y="376" as="geometry" />
+        </mxCell>
+        <mxCell id="I-9owcT4jq3m5ikvxURM-10" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;align=center;" value="Muestra el listado completo del personal registrado en el bot &quot;Alertas-PSA" vertex="1">
+          <mxGeometry height="60" width="160" x="20" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
