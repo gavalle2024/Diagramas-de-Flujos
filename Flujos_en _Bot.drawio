@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&quot;Seleccionar el tipo de Inasistencia:&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Boton &quot;Accidente de trabajo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Asuntos particulares&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (conviviente, conyuge, hijos, padres o hermanos)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (Abuelos, nietos, suegros o cuñados)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Nacimiento de hijo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Donacion de sangre&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de familiar a cargo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de tratamiento breve&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="400" x="-120" y="630" as="geometry" />
+          <mxGeometry height="170" width="400" x="-120" y="638" as="geometry" />
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Al pulsar boton &quot;Reportar Inasis&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tencia&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="216" x="-99" y="552" as="geometry" />
