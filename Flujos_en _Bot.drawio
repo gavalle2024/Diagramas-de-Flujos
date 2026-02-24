@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.2">
   <diagram name="Página-1" id="Cwhy34_-L7s4h74O22FV">
-    <mxGraphModel dx="872" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,135 @@
         <mxCell id="1kJHDN1Gv4CYME2uJFcR-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="INICIO&lt;div&gt;BOT TELEGRAM&lt;/div&gt;&lt;div&gt;&quot;Alertas-PSA&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="340" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-2" edge="1" parent="1" source="1kJHDN1Gv4CYME2uJFcR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1kJHDN1Gv4CYME2uJFcR-2" parent="1" style="whiteSpace=wrap;html=1;" value="REGISTRAR Comando &quot;/start&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="161" y="20" as="geometry" />
         </mxCell>
         <mxCell id="1kJHDN1Gv4CYME2uJFcR-4" parent="1" style="whiteSpace=wrap;html=1;" value="REGISTRADO&lt;div&gt;Comando &quot;/menu&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-4" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-1" parent="1" style="whiteSpace=wrap;html=1;" value="&quot;Por favor ingresa tu numero de legajo:&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="161" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-6" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&quot;Selecciona tu nombre completo&quot;&lt;div&gt;Muestra 3 nombres completos, uno que corresponde al legajo y 2 random&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="161" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-14" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Valida&lt;div&gt;coincidencia&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="161" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bloquea el Chat_Id no permitiendo intentar registrar nuevamente" vertex="1">
+          <mxGeometry height="70" width="120" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-10" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="qGrkcaAxCFV2v9Zo5DTo-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="161" y="485" as="sourcePoint" />
+            <mxPoint x="81" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="39" x="123" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-17" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&quot;Token generado: tG30cp7X1_g&lt;div&gt;Registro exitoso. Podes usar /menu&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="121" y="571" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si" vertex="1">
+          <mxGeometry height="30" width="40" x="222" y="541" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-19" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mensaje: Cargando menu, por favor espera..." vertex="1">
+          <mxGeometry height="41" width="200" x="121" y="639" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-21" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="qGrkcaAxCFV2v9Zo5DTo-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="738" />
+            </Array>
+            <mxPoint x="-30" y="750" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Menu:&lt;div&gt;Boton &quot;Mis novedades&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Reportar Inasistencia&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Registrar QR&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80.5" width="200" x="121" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-24" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&quot;Seleccionar el tipo de Inasistencia:&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Boton &quot;Accidente de trabajo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Asuntos particulares&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (conviviente, conyuge, hijos, padres o hermanos)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Fallecimiento (Abuelos, nietos, suegros o cuñados)&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Nacimiento de hijo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Donacion de sangre&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de familiar a cargo&quot;&lt;/div&gt;&lt;div&gt;Boton &quot;Enfermedad de tratamiento breve&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="400" x="-120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;Reportar Inasis&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tencia&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-13" y="711" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-26" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&quot;Seleccionaste: ETB - Parte de Enfermo&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Por favor escribi una breve descripcion de la inasistencia (ej.: tengo fiebre). Si no queres agregar texto, responde SIN DETALLE.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-120" y="1004" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-28" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&quot;SIN DETALLE&quot;" vertex="1">
+          <mxGeometry height="36" width="120" x="20" y="1114" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-30" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.121;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qGrkcaAxCFV2v9Zo5DTo-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="1195" />
+              <mxPoint x="290" y="1480" />
+              <mxPoint x="310" y="1480" />
+            </Array>
+            <mxPoint x="280" y="1195" as="sourcePoint" />
+            <mxPoint x="310" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Descripcion registrada. Si queres adjuntar un certificado pulsa &#39;Adjuntar certificado&#39;, sino pulsa &#39;Adjuntar despues - Terminar&#39;." vertex="1">
+          <mxGeometry height="50" width="400" x="-120" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-33" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&quot;Por favor adjunta ahora el certificado (usa el clip en telegram). Cuando envies, se guardara automaticamente.&lt;div&gt;Si queres, podes escribir tambien u&amp;nbsp; texto junto al archivo.&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="360" x="-100" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Al pulsar boton &quot;Adjuntar Certificado&quot;" vertex="1">
+          <mxGeometry height="30" width="210" x="-10" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-35" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qGrkcaAxCFV2v9Zo5DTo-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&quot;Adjunto guardado&quot;&lt;div&gt;Boton &quot;Terminar&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&quot;Inasistencia registrada. Quedando a la espera de su convalidacion&quot;" vertex="1">
+          <mxGeometry height="60" width="300" x="-70" y="1527" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Al pulsar boton &quot;Terminat&quot;" vertex="1">
+          <mxGeometry height="30" width="149" x="26" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&quot;Inasistencia registrada. Quedando a la espera del certificado que corresponda.&quot;" vertex="1">
+          <mxGeometry height="60" width="240" x="281" y="1528" as="geometry" />
+        </mxCell>
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="Al pulsar boton &quot;Adjuntar despues - Terminar&quot;" vertex="1">
+          <mxGeometry height="30" width="259" x="173" y="1320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
