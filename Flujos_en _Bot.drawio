@@ -281,8 +281,8 @@
         <mxCell id="FtjLhpLCkkFTPaPdmuST-26" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;CONVALIDAR&quot;" vertex="1">
           <mxGeometry height="30" width="90" x="1230" y="806" as="geometry" />
         </mxCell>
-        <mxCell id="FtjLhpLCkkFTPaPdmuST-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;" value="El empleado recibe el mensaje &quot;" vertex="1">
-          <mxGeometry height="60" width="120" x="1331" y="948" as="geometry" />
+        <mxCell id="FtjLhpLCkkFTPaPdmuST-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;align=left;" value="El empleado recibe el mensaje:&lt;div&gt;&quot;Tu inasistencia fue registrada como CONVALIDADO por RRHH el 2026-02-03 17:22:13&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensaje original:&lt;/div&gt;&lt;div&gt;Motivos personales&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="240" x="1270" y="901" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
