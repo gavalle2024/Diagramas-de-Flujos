@@ -167,7 +167,7 @@
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-41" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Parte de enfermo&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="-50" y="989" as="geometry" />
         </mxCell>
-        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Al enviar legajo" vertex="1">
+        <mxCell id="qGrkcaAxCFV2v9Zo5DTo-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#1D3557,#FFFF66);" value="Al ingresar legajo" vertex="1">
           <mxGeometry height="30" width="100" x="327" y="123" as="geometry" />
         </mxCell>
         <mxCell id="qGrkcaAxCFV2v9Zo5DTo-47" edge="1" parent="1" source="qGrkcaAxCFV2v9Zo5DTo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="qGrkcaAxCFV2v9Zo5DTo-46">
