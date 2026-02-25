@@ -242,6 +242,9 @@
         <mxCell id="FtjLhpLCkkFTPaPdmuST-22" edge="1" parent="1" source="FtjLhpLCkkFTPaPdmuST-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="FtjLhpLCkkFTPaPdmuST-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FtjLhpLCkkFTPaPdmuST-30" edge="1" parent="1" source="FtjLhpLCkkFTPaPdmuST-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="FtjLhpLCkkFTPaPdmuST-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FtjLhpLCkkFTPaPdmuST-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;labelBackgroundColor=none;" value="Boton &quot;Ver todos&quot;&lt;div&gt;Boton &quot;Por legajo&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="150" x="959" y="511" as="geometry" />
         </mxCell>
@@ -283,6 +286,12 @@
         </mxCell>
         <mxCell id="FtjLhpLCkkFTPaPdmuST-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;align=left;" value="El empleado recibe el mensaje:&lt;div&gt;&quot;Tu inasistencia fue registrada como CONVALIDADO por RRHH el 2026-02-03 17:22:13&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensaje original:&lt;/div&gt;&lt;div&gt;Motivos personales&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="240" x="1270" y="901" as="geometry" />
+        </mxCell>
+        <mxCell id="FtjLhpLCkkFTPaPdmuST-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;align=left;" value="&quot;Ingresar el numero de legajo para ver novedades:&quot;" vertex="1">
+          <mxGeometry height="60" width="176" x="1204" y="541" as="geometry" />
+        </mxCell>
+        <mxCell id="FtjLhpLCkkFTPaPdmuST-31" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFF66);" value="Al pulsar boton &quot;Por legajo&quot;" vertex="1">
+          <mxGeometry height="30" width="90" x="1109" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
