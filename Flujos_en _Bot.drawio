@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.2" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.6.0" pages="2">
   <diagram name="Flujos_Bot_Telegram" id="Cwhy34_-L7s4h74O22FV">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,7 +383,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Flujos_App_Tkinter" id="iNgyuWQ_Rq7EE0BhiQ1f">
-    <mxGraphModel dx="1284" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4hdbfesr_QCJyW-_lk5X-0" />
         <mxCell id="4hdbfesr_QCJyW-_lk5X-1" parent="4hdbfesr_QCJyW-_lk5X-0" />
@@ -509,8 +509,26 @@
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-31" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Vista previa de QR" vertex="1">
           <mxGeometry height="30" width="160" x="430" y="489" as="geometry" />
         </mxCell>
+        <mxCell id="gRv1zEsUneeWhI7Em6uA-3" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="YfFWTKVLZJ4O_Sn_re0M-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#6493B0);" target="gRv1zEsUneeWhI7Em6uA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-33" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Filtros: Estado (Radio), Fecha Legajo, Nombre, Destino" vertex="1">
           <mxGeometry height="54" width="160" x="630" y="329" as="geometry" />
+        </mxCell>
+        <mxCell id="gRv1zEsUneeWhI7Em6uA-5" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="gRv1zEsUneeWhI7Em6uA-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#6493B0);" target="gRv1zEsUneeWhI7Em6uA-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRv1zEsUneeWhI7Em6uA-0" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Listado Treeview de inasistencia" vertex="1">
+          <mxGeometry height="47" width="160" x="630" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="gRv1zEsUneeWhI7Em6uA-7" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="gRv1zEsUneeWhI7Em6uA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#6493B0);" target="gRv1zEsUneeWhI7Em6uA-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRv1zEsUneeWhI7Em6uA-4" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Ventana flotante: Detalle de Inasistencia" vertex="1">
+          <mxGeometry height="47" width="160" x="630" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="gRv1zEsUneeWhI7Em6uA-6" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Botones: VER ADJUNTO, VALIDO, NO VALIDO" vertex="1">
+          <mxGeometry height="47" width="160" x="630" y="548" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
