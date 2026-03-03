@@ -429,6 +429,9 @@
         <mxCell id="I-9owcT4jq3m5ikvxURM-6" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;align=center;" value="Listado de alertas" vertex="1">
           <mxGeometry height="41" width="160" x="20" y="409" as="geometry" />
         </mxCell>
+        <mxCell id="i1cB_8cYrgNpFYbyYRS1-2" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="I-9owcT4jq3m5ikvxURM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="i1cB_8cYrgNpFYbyYRS1-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I-9owcT4jq3m5ikvxURM-8" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;" value="Boton: Enviar alertas" vertex="1">
           <mxGeometry height="41" width="160" x="20" y="471" as="geometry" />
         </mxCell>
@@ -455,6 +458,9 @@
         </mxCell>
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-13" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;" value="Listado Treeview de empleados" vertex="1">
           <mxGeometry height="60" width="160" x="220" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="DTOBWGHFcip-hvlz9y9t-3" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="YfFWTKVLZJ4O_Sn_re0M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="DTOBWGHFcip-hvlz9y9t-2" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-15" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=none;" value="Botones: Asignar/Quitar roles" vertex="1">
           <mxGeometry height="60" width="160" x="220" y="568" as="geometry" />
@@ -506,6 +512,9 @@
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-29" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Listado de QRs generados" vertex="1">
           <mxGeometry height="30" width="160" x="430" y="436" as="geometry" />
         </mxCell>
+        <mxCell id="DTOBWGHFcip-hvlz9y9t-8" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="YfFWTKVLZJ4O_Sn_re0M-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="DTOBWGHFcip-hvlz9y9t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-31" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Vista previa de QR" vertex="1">
           <mxGeometry height="30" width="160" x="430" y="489" as="geometry" />
         </mxCell>
@@ -527,12 +536,32 @@
         <mxCell id="gRv1zEsUneeWhI7Em6uA-4" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Ventana flotante: Detalle de Inasistencia" vertex="1">
           <mxGeometry height="47" width="160" x="630" y="478" as="geometry" />
         </mxCell>
+        <mxCell id="DTOBWGHFcip-hvlz9y9t-6" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="gRv1zEsUneeWhI7Em6uA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="DTOBWGHFcip-hvlz9y9t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gRv1zEsUneeWhI7Em6uA-6" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Botones: VER ADJUNTO, VALIDO, NO VALIDO" vertex="1">
           <mxGeometry height="47" width="160" x="630" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="i1cB_8cYrgNpFYbyYRS1-0" parent="4hdbfesr_QCJyW-_lk5X-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;points=[[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0]];" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="40" y="670" as="geometry" />
-        </mxCell>
+        <UserObject label="Mas detallado" link="data:page/id,bfko5rkuQjSJrZAieJqQ" id="i1cB_8cYrgNpFYbyYRS1-1">
+          <mxCell parent="4hdbfesr_QCJyW-_lk5X-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;labelBackgroundColor=none;" vertex="1">
+            <mxGeometry height="80" width="120" x="40" y="548" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mas detallado" link="data:page/id,5risaj2JdDgH95Z2NeUq" id="DTOBWGHFcip-hvlz9y9t-2">
+          <mxCell parent="4hdbfesr_QCJyW-_lk5X-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;labelBackgroundColor=none;" vertex="1">
+            <mxGeometry height="80" width="120" x="240" y="663" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mas detallado" link="data:page/id,o1orhtGujodDRJlE_Qgm" id="DTOBWGHFcip-hvlz9y9t-4">
+          <mxCell parent="4hdbfesr_QCJyW-_lk5X-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;labelBackgroundColor=none;" vertex="1">
+            <mxGeometry height="80" width="120" x="450" y="551" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mas detallado" link="data:page/id,NfF446AFy9f36ARO4YyV" id="DTOBWGHFcip-hvlz9y9t-5">
+          <mxCell parent="4hdbfesr_QCJyW-_lk5X-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;labelBackgroundColor=none;" vertex="1">
+            <mxGeometry height="80" width="120" x="650" y="628" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
