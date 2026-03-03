@@ -938,7 +938,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qd4Kvn8RLhSfz05Tv4lf-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;" value="/qr_novedad" vertex="1">
-          <mxGeometry height="40" width="110" x="-80.5" y="161" as="geometry" />
+          <mxGeometry height="40" width="110" x="-74.5" y="161" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-32" edge="1" parent="1" source="qd4Kvn8RLhSfz05Tv4lf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-31" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -980,13 +980,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Flujo registro QR" vertex="1">
-          <mxGeometry height="60" width="120" x="-85.5" y="237" as="geometry" />
+          <mxGeometry height="60" width="120" x="-79.5" y="237" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-6" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Espera codigo QR" vertex="1">
-          <mxGeometry height="60" width="120" x="-85.5" y="317" as="geometry" />
+          <mxGeometry height="60" width="120" x="-79.5" y="317" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-42" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-12">
           <mxGeometry relative="1" as="geometry" />
@@ -995,7 +995,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Valida QR en base de datos" vertex="1">
-          <mxGeometry height="60" width="120" x="-85.5" y="400" as="geometry" />
+          <mxGeometry height="60" width="120" x="-79.5" y="400" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Fin QR" vertex="1">
           <mxGeometry height="60" width="120" x="55" y="595" as="geometry" />
@@ -1042,22 +1042,22 @@
           <mxGeometry height="30" width="85" x="-532.5" y="377" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Ver / Gestionar novedaddes" vertex="1">
-          <mxGeometry height="60" width="120" x="55" y="236" as="geometry" />
+          <mxGeometry height="60" width="120" x="63" y="237" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Ver / Gestionar bots" vertex="1">
           <mxGeometry height="60" width="120" x="212" y="236" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Utilitario y estados" vertex="1">
-          <mxGeometry height="60" width="120" x="385" y="236" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="236" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;RRHH&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="72.5" x="77.5" y="200" as="geometry" />
+          <mxGeometry height="30" width="72.5" x="85.5" y="201" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;Técnico&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="72.5" x="235" y="200" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;Admin&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="72.5" x="409" y="200" as="geometry" />
+          <mxGeometry height="30" width="72.5" x="384" y="200" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;QR Invalido&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="85" x="73" y="504" as="geometry" />
