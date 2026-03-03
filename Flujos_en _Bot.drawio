@@ -876,7 +876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wqZ5ZU98eUv-VRbcn_ZH" name="Flujo Principal">
-    <mxGraphModel dx="2679" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2157" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -988,35 +988,29 @@
         <mxCell id="XER2cGU60xdrwKgmV9Q0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Espera codigo QR" vertex="1">
           <mxGeometry height="60" width="120" x="-85.5" y="317" as="geometry" />
         </mxCell>
-        <mxCell id="XER2cGU60xdrwKgmV9Q0-8" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-7" value="">
+        <mxCell id="XER2cGU60xdrwKgmV9Q0-42" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XER2cGU60xdrwKgmV9Q0-13" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-12" value="">
+        <mxCell id="XER2cGU60xdrwKgmV9Q0-43" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Valida QR en base de datos" vertex="1">
           <mxGeometry height="60" width="120" x="-85.5" y="400" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Fin QR" vertex="1">
-          <mxGeometry height="60" width="120" x="-85.5" y="525" as="geometry" />
-        </mxCell>
-        <mxCell id="XER2cGU60xdrwKgmV9Q0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;QR Invalido&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="85" x="-68" y="480" as="geometry" />
+          <mxGeometry height="60" width="120" x="55" y="595" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;" value="Pide detalle" vertex="1">
-          <mxGeometry height="60" width="120" x="-285.5" y="400" as="geometry" />
+          <mxGeometry height="60" width="120" x="-231" y="485" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-18" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-16" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" value="Guarda novedad QR" vertex="1">
-          <mxGeometry height="80" width="60" x="-255" y="515" as="geometry" />
+          <mxGeometry height="80" width="60" x="-80.5" y="585" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-17" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-16">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XER2cGU60xdrwKgmV9Q0-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;QR valido&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="85" x="-170.5" y="400" as="geometry" />
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-23" edge="1" parent="1" source="XER2cGU60xdrwKgmV9Q0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="XER2cGU60xdrwKgmV9Q0-22">
           <mxGeometry relative="1" as="geometry" />
@@ -1064,6 +1058,12 @@
         </mxCell>
         <mxCell id="XER2cGU60xdrwKgmV9Q0-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;Admin&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="72.5" x="409" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XER2cGU60xdrwKgmV9Q0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;QR Invalido&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="85" x="73" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="XER2cGU60xdrwKgmV9Q0-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#7EA6E0);" value="&amp;nbsp;QR valido&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="85" x="-219" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
