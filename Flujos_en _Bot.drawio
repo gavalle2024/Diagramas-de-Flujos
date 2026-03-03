@@ -402,8 +402,8 @@
         <mxCell id="4hdbfesr_QCJyW-_lk5X-6" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Solapa &quot;Alertas&quot;" vertex="1">
           <mxGeometry height="30" width="160" x="20" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="4hdbfesr_QCJyW-_lk5X-8" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="Estado del bot: ENCENDIDO / APAGADO&lt;div&gt;&lt;br&gt;&lt;div&gt;Boton &quot;Encender bot&quot;&amp;nbsp; &amp;nbsp; boton &quot;Apagar bot&quot;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="250" x="510" y="20" as="geometry" />
+        <mxCell id="4hdbfesr_QCJyW-_lk5X-8" parent="4hdbfesr_QCJyW-_lk5X-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&lt;div&gt;CONTROL DEL BOT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Estado del bot: ENCENDIDO / APAGADO&lt;div&gt;&lt;div&gt;Boton &quot;Encender bot&quot;&amp;nbsp; &amp;nbsp; boton &quot;Apagar bot&quot;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="510" y="20" as="geometry" />
         </mxCell>
         <mxCell id="YfFWTKVLZJ4O_Sn_re0M-10" edge="1" parent="4hdbfesr_QCJyW-_lk5X-1" source="I-9owcT4jq3m5ikvxURM-0" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="YfFWTKVLZJ4O_Sn_re0M-9" value="">
           <mxGeometry relative="1" as="geometry" />
